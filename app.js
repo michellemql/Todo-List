@@ -41,7 +41,6 @@ const item3 = new Item({
 });
 
 
-
 const defaultItems = [item1, item2, item3];
 
 
