@@ -29,7 +29,7 @@ const itemsSchema = {
 const Item = mongoose.model("Item", itemsSchema);
 
 const item1 = new Item({
-  name: "Welcome to your To-Do List!"
+  name: "Welcome to your To Do List!"
 });
 
 const item2 = new Item({
