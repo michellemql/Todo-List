@@ -40,8 +40,11 @@ const item3 = new Item({
   name: "<-- Hit this to delete an item."
 });
 
+const item4 = new Item({
+  name: "Add a new list in the url, e.g /Work."
+});
 
-const defaultItems = [item1, item2, item3];
+const defaultItems = [item1, item2, item3, item4];
 
 
 // List Schema
