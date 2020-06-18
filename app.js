@@ -41,7 +41,7 @@ const item3 = new Item({
 });
 
 const item4 = new Item({
-  name: "Add a new list in the url, e.g /Work."
+  name: "Create a new list using the url, e.g /Work."
 });
 
 const defaultItems = [item1, item2, item3, item4];
