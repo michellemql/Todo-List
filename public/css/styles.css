@@ -63,9 +63,10 @@ button {
   border-color: transparent;
   background-color: #A683E3;
   color: #fff;
-  font-size: 30px;
-  margin-bottom: 6px;
+  font-size: 40px;
+  /* margin-bottom: 6px; */
   border-width: 0;
+  text-align: center;
 }
 
 input[type="text"] {
