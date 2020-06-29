@@ -67,6 +67,7 @@ button {
   /* margin-bottom: 6px; */
   border-width: 0;
   text-align: center;
+  padding-bottom: 6px;
 }
 
 input[type="text"] {
@@ -88,6 +89,7 @@ input[type="text"]:focus {
 ::placeholder {
   color: grey;
   opacity: 1;
+  text-align: center;
 }
 
 footer {
